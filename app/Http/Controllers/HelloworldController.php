@@ -7,7 +7,7 @@ use League\Flysystem\UrlGeneration\PublicUrlGenerator;
 
 class HelloworldController extends Controller
 {
-    public function inbex()
+    public function index()
     {
         return "Saya sedang belajar framwork laravel 11";
     }
